@@ -1,6 +1,6 @@
  
 ## Description
-Payever Test Project by Nazar Kucheruk.
+Payever Test Project by Brian.
 
 ## Installation
 
